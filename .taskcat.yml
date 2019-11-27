@@ -1,0 +1,8 @@
+project:
+  name: qs-workshop
+  regions:
+  - eu-west-2
+  - us-west-2
+tests:
+  default:
+    template: ./templates/master.template.yaml
